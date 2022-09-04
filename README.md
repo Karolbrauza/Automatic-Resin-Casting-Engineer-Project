@@ -1,4 +1,4 @@
-# ARC - Automatic-Resin-Casting-Engineer-Project
+# ARC - Automatic Resin Casting - Engineer Project
 
 The aim of the work is to design a device that realizes the technological process of making a cast of epoxy resin, which is divided into 3 stages:
 
